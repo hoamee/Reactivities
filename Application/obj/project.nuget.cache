@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "KnR0k5CsW/3vBLrdSWJmD4bu/JHxm4kxT+G+v2n1Jgr4z+zaiqBE8WEIOkeNsfQiqkh+vZUDmxObeb5myO0hgQ==",
+  "dgSpecHash": "whb1RgC4NUnfxiZeklobgy5GhHlTTu17OcAz7en9nf8kMeTrHI7QlY2mEsqUTFTz7jr7z5FhyRTs6eL7Mex7fw==",
   "success": true,
   "projectFilePath": "/Users/lethanhhieu/Visual-studio/ReactDemo/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/lethanhhieu/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/lethanhhieu/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/lethanhhieu/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
+    "/Users/lethanhhieu/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512",
+    "/Users/lethanhhieu/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.0/mediatr.extensions.microsoft.dependencyinjection.10.0.0.nupkg.sha512",
+    "/Users/lethanhhieu/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/lethanhhieu/.nuget/packages/microsoft.data.sqlite.core/6.0.0/microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "/Users/lethanhhieu/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "/Users/lethanhhieu/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0/microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

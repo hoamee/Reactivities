@@ -32,10 +32,7 @@ function App() {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>
             <Nav.Link href="#pricing">Pricing</Nav.Link>
-            <NavDropdown title="Dropdown"  id="">
-              <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">Another action</NavDropdown.Item>
-            </NavDropdown>
+            
           </Nav>
         </Container>
       </Navbar>
@@ -44,15 +41,13 @@ function App() {
         <ListGroup as="ul">
         {
             activities.map((activity: any) => (
-              <ListGroup.Item autoSave="li" className="text-white bg-transparent" key={activity.id}>
+              <ListGroup.Item key={activity.id}>
                 {activity.title}
               </ListGroup.Item>
             ))
           }
         </ListGroup>
-        <ul>
-          
-        </ul>
+        
       </header>
     </div>
   );
